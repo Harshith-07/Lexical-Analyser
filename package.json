@@ -1,0 +1,20 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "This is compiler design project",
+  "main": "compiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshith",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.1.4",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsdom": "^21.1.1",
+    "mysql2": "^3.2.3",
+    "pg": "^8.10.0",
+    "sequelize": "^6.30.0"
+  }
+}
